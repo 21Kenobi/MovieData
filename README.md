@@ -29,6 +29,7 @@ In the initial data preparation phase, we performed the following tasks:
  - Best profitable movie was: with Budget of.... Box Office Revenue was 102 000 000 USD. The genre of this movie was....
  - The best actor was...
  - The best director
+![Movies Data Dashboard](https://github.com/user-attachments/assets/19bd4349-e15b-4cc3-8c14-f4d466e0e987)
 
 ### Challenges in Analysis 
 #### M language
