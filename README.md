@@ -10,6 +10,7 @@ By analysing various aspects of the movie data, we seek to identify patterns, ma
 
 ### Data Sources
 Movie Data : the primary dataset used for this analysisis the "Movie Data Homework.xmls" file, containing detailed information about each movie's performance, actors, directors etc.
+[Movies Data Homework.xlsx](https://github.com/user-attachments/files/16405599/Movies.Data.Homework.xlsx)
 
 ### Tools
  - Power Query - I used Power Query for Data Cleaning
