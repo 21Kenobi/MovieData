@@ -27,16 +27,17 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Results and Findings
  - Best profitable movie was: with Budget of.... Box Office Revenue was 102 000 000 USD. The genre of this movie was....
-   ![Best Profitable Movie](https://github.com/user-attachments/assets/ec83acaf-914e-449a-98f2-945f12214152)
+  ![Best Profitable Movie](https://github.com/user-attachments/assets/942c0db2-015e-4866-bc66-b1cbcb20a94c)
+
  - The best actor was...
- - The best director
-![Movies Data Dashboard](https://github.com/user-attachments/assets/ada64ab2-30d1-430a-a2e8-2b5678b912fd)
+![Movies Data Dashboard](https://github.com/user-attachments/assets/a8ce343f-d72a-4772-8fa7-f447c753b74b)
+
 
 
 ### Challenges in Analysis 
 #### M language
 One of interesting features/challenges I was working with a specific code for Grouping in M language with enabled me to Combine genres together for further analysis.
-We had 2 column for genres, but we needed to combine them and have the same format, for example action/comedy, not comedy/action
+I had 2 column for genres, but I needed to combine them and have the same format, for example action/comedy, not comedy/action
 
 --- 
 ```
