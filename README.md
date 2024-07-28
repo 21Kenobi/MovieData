@@ -27,10 +27,11 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Results and Findings
  - Best profitable movie was: with Budget of.... Box Office Revenue was 102 000 000 USD. The genre of this movie was....
+![Best Profitable Movie](https://github.com/user-attachments/assets/fd37798a-6de0-495e-b543-2393b8223067)
 
 
  - The best actor was...
-
+![Movies Data Dashboard](https://github.com/user-attachments/assets/b24e4466-139e-4263-87ae-1e5108a5c971)
 
 
 
