@@ -4,7 +4,6 @@
  - [Data Source](#data-sources)
  - [Tools](#tools)
  - [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
- - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
  - [Challenges in Analysis](#challenges-in-analysis)
  - [Excel Dashboard](#Excel-Dashboard)
  - [Summary](#Summary)
