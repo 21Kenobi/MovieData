@@ -27,7 +27,7 @@ In the initial data preparation phase, I performed the following tasks:
 All Power Query steps are documented in the Excel file. The Excel file after the preparation process can be downloaded here: [Movies Data Work.xlsx](https://github.com/user-attachments/files/16405611/Movies.Data.Work.xlsx)
 
 
-### Exploratory Data Analysis & Results and Findings
+### Exploratory Data Analysis, Results and Findings
 This dashboard is designed for in-depth analysis of movie data. You can download the Excel dashboard from the following link: Download Excel Dashboard. It offers a comprehensive view of various metrics, including box office revenue, ROI, and budget information. The dashboard features interactive elements such as filters for genres and directors, charts displaying trends over time, and tables highlighting the most and least profitable movies, as well as top actors by box office revenue.
 
 ![Movies Data Dashboard](https://github.com/user-attachments/assets/7ef93be4-8052-4f0d-918a-5d7f04dc223b)
