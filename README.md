@@ -2,7 +2,7 @@
 ## Table of content : 
  - [Project Overview](#project-overview)
  - [Data Source](#data-sources)
- - [Results](#results-and-findings)
+ - [Exploratory Data Analysis](#Exploratory-Data-Analysis-&-Results-and-Findings)
  - [Challenges in Analysis](#challenges-in-analysis)
 ### Project Overview
 This data analysis project aims to provide insights into the performance and trends of movies from 2012 to 2016. By analyzing various aspects of the movie data, the goal is to identify patterns, make data-driven recommendations, and gain a deeper understanding of the industry's dynamics.
@@ -113,5 +113,6 @@ One of the interesting features/challenges I worked on involved a specific code 
 
 ```
 ### Excel Dashboard
-Can be downloaded here  [Movies Data Dashboard.xlsx](https://github.com/user-attachments/files/16405707/Movies.Data.Dashboard.xlsx)
+You can download the Excel dashboard that I created for analyzing movie data from the following link: [Movies Data Dashboard.xlsx](https://github.com/user-attachments/files/16405707/Movies.Data.Dashboard.xlsx). 
+This dashboard provides a comprehensive view of various metrics, including box office revenue, ROI, and budget information. It features interactive elements like filters for genres and directors, charts displaying trends over time, and tables highlighting the most and least profitable movies, as well as top actors by box office revenue. The dashboard was designed to facilitate easy exploration and analysis of the movie data, making it a valuable tool for gaining insights into the film industry.
 
