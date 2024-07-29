@@ -7,6 +7,7 @@
  - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
  - [Challenges in Analysis](#challenges-in-analysis)
  - [Excel Dashboard](#Excel-Dashboard)
+ - [Summary](#Summary)
 ### Project Overview
 This data analysis project aims to provide insights into the performance and trends of movies from 2012 to 2016. By analyzing various aspects of the movie data, the goal is to identify patterns, make data-driven recommendations, and gain a deeper understanding of the industry's dynamics.
 
@@ -28,7 +29,8 @@ All Power Query steps are documented in the Excel file. The Excel file after the
 
 
 ### Exploratory Data Analysis, Results and Findings
-This dashboard is designed for in-depth analysis of movie data. You can download the Excel dashboard from the following link: Download Excel Dashboard. It offers a comprehensive view of various metrics, including box office revenue, ROI, and budget information. The dashboard features interactive elements such as filters for genres and directors, charts displaying trends over time, and tables highlighting the most and least profitable movies, as well as top actors by box office revenue.
+This dashboard is designed for in-depth analysis of movie data. It offers a comprehensive view of various metrics, including box office revenue, ROI, and budget information. The dashboard features interactive elements such as filters for genres and directors, charts displaying trends over time, and tables highlighting the most and least profitable movies, as well as top actors by box office revenue.
+
 
 ![Movies Data Dashboard](https://github.com/user-attachments/assets/7ef93be4-8052-4f0d-918a-5d7f04dc223b)
 
@@ -36,10 +38,15 @@ This dashboard is designed for in-depth analysis of movie data. You can download
   - Which genre generates the highest box office revenue?
     
     ![1](https://github.com/user-attachments/assets/784ea593-5093-47a9-81a3-928f6bf0bad1)
+    
+    The Action genre generates the highest box office revenue.
 
   - How has the box office revenue changed throughout the year?
     
     ![2](https://github.com/user-attachments/assets/cccf7522-9397-484b-8826-8f59377415a2)
+    
+    Box office revenue peaks in the summer (June-August) and during the holiday season (November-December) due to major releases. It dips in January and September when fewer big movies are released.
+    
     
   - Which movie has the highest ROI (return on investment)?
     
@@ -77,19 +84,28 @@ This dashboard is designed for in-depth analysis of movie data. You can download
 
   - #Which directors made the movies with the highest and lowest ROI?
     
-     1:
+     1:Low
     ![12 2](https://github.com/user-attachments/assets/80634939-63bc-4331-a025-be0b161171e0)
-     2:
+     2:High
     ![12](https://github.com/user-attachments/assets/82213125-31bd-4a0f-b942-5520cfc96aab)
 
 
 
   - Is there a correlation between the movie genre and its budget?
-  1:
-    ![13](https://github.com/user-attachments/assets/a2128677-9a3d-46d5-8e6f-ef54063ebfff)
+    
+  1: Genre-Action
 
- 2:
-  ![13 2](https://github.com/user-attachments/assets/d585ca45-b97c-4d94-a459-e0ed46103f4e)
+
+![13](https://github.com/user-attachments/assets/285a4dab-8038-4f13-8eaa-7910a18d41dd)
+
+  
+
+
+  2: Genre-Drama
+
+   ![13 2](https://github.com/user-attachments/assets/ae3b4c5e-686c-45c3-ab10-903990c6f66e)
+
+
   
   Visualization by genre and budget can show this relationship. For example, action and adventure films often have larger budgets.
   
@@ -97,7 +113,10 @@ This dashboard is designed for in-depth analysis of movie data. You can download
   - What trends can be observed in the popularity of genres throughout the year?
 1: ![14](https://github.com/user-attachments/assets/5576f288-0032-4c16-8cdb-ef5558c46556)
 
-2: ![14 2](https://github.com/user-attachments/assets/30f9acc8-079b-470b-a67f-34c47114ea38)
+2:
+
+
+![14 2](https://github.com/user-attachments/assets/30f9acc8-079b-470b-a67f-34c47114ea38)
 
  
 It can be seen that some genres are consistently popular, while others have seasonal fluctuations.
@@ -120,3 +139,12 @@ One of the interesting features/challenges I worked on involved a specific code 
 You can download the Excel dashboard that I created for analyzing movie data from the following link: [Movies Data Dashboard.xlsx](https://github.com/user-attachments/files/16405707/Movies.Data.Dashboard.xlsx). 
 This dashboard provides a comprehensive view of various metrics, including box office revenue, ROI, and budget information. It features interactive elements like filters for genres and directors, charts displaying trends over time, and tables highlighting the most and least profitable movies, as well as top actors by box office revenue. The dashboard was designed to facilitate easy exploration and analysis of the movie data, making it a valuable tool for gaining insights into the film industry.
 
+
+### Summary
+This project explores movie performance data from 2012 to 2016, focusing on revenue, budgets, and ROI. Using an interactive Excel dashboard, it provides:
+
+ - Comprehensive Analysis: Visualizations of key metrics such as box office revenue, budget, and ROI.
+ - Data-Driven Insights: Identifies top-performing genres, profitable movies, and influential directors.
+ - Enhanced Understanding: Reveals trends and patterns in movie performance over time.
+Respectfully,
+Oleksandr Stolnyi
