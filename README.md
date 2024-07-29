@@ -1,5 +1,5 @@
 # Movie Data Analysis Project
-###Table of content 
+## Table of content : 
  - [Project Overview](#project-overview)
  - [Data Source](#data-sources)
  - [Results](#results-and-findings)
