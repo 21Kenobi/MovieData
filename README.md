@@ -21,6 +21,8 @@ In the initial data preparation phase, we performed the following tasks:
  - Data loading and inspection.
  - Handlinng errors, missing values.
  - Data cleaning and formating.
+All Power Query steps is here.The excel file after preparation process can be downloaded here  [Movies Data Work.xlsx](https://github.com/user-attachments/files/16405611/Movies.Data.Work.xlsx)
+
 
 ### Exploratory Data Analysis
  - Which genres were the most profitable these years?
@@ -50,3 +52,6 @@ I had 2 column for genres, but I needed to combine them and have the same format
                 type table [Movie Title=nullable text, Release Date=nullable date, Wikipedia URL=nullable text, Concat Genre=nullable text, Director_First_ID=nullable number, Cast_First_ID=nullable number, Cast_Second_ID=nullable number, Cast_Third_ID=nullable number, Cast_Fourth_ID=nullable number, Cast_Fifth_ID=nullable number, #"Budget ($)"=nullable number, #"Box Office Revenue ($)"=nullable number, Director=nullable text, Actor 1=nullable text, Actor 2=nullable text, Actor 3=nullable text, Actor 4=nullable text, Actor 5=nullable text]}})
 
 ```
+### Excel Dashboard
+Can be downloaded here  [Movies Data Dashboard.xlsx](https://github.com/user-attachments/files/16405707/Movies.Data.Dashboard.xlsx)
+
