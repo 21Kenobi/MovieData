@@ -147,5 +147,6 @@ This project explores movie performance data from 2012 to 2016, focusing on reve
  - Comprehensive Analysis: Visualizations of key metrics such as box office revenue, budget, and ROI.
  - Data-Driven Insights: Identifies top-performing genres, profitable movies, and influential directors.
  - Enhanced Understanding: Reveals trends and patterns in movie performance over time.
+   
 Respectfully,
 Oleksandr Stolnyi
