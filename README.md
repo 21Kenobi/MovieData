@@ -5,43 +5,103 @@
  - [Results](#results-and-findings)
  - [Challenges in Analysis](#challenges-in-analysis)
 ### Project Overview
-This data analysis project aims to provide insights into the performance and trends of movies from 2012 to 2016
-By analysing various aspects of the movie data, we seek to identify patterns, make data-driven recommendations, and gain a deeper understanding of the industry's dynamics.
+This data analysis project aims to provide insights into the performance and trends of movies from 2012 to 2016. By analyzing various aspects of the movie data, the goal is to identify patterns, make data-driven recommendations, and gain a deeper understanding of the industry's dynamics.
 
 ### Data Sources
-Movie Data : the primary dataset used for this analysisis the "Movie Data Homework.xmls" file, containing detailed information about each movie's performance, actors, directors etc.
-[Movies Data Homework.xlsx](https://github.com/user-attachments/files/16405599/Movies.Data.Homework.xlsx)
+The primary dataset used for this analysis is the [Movies Data Homework.xlsx](https://github.com/user-attachments/files/16405599/Movies.Data.Homework.xlsx) , 
+containing detailed information about each movie's performance, actors, directors, and more.
+Note: If you want to review the steps of the work, you need to use this file as the "Source."
 
 ### Tools
- - Power Query - I used Power Query for Data Cleaning
- - Excel, Pivot Table - I used them for Data Analysis, Creating Reports and visualizations
+ - Power Query: Used for data cleaning.
+ - Excel, Pivot Table: Used for data analysis, creating reports, and visualizations.
    
 ### Data Cleaning and Preparation
-In the initial data preparation phase, we performed the following tasks:
- - Data loading and inspection.
- - Handlinng errors, missing values.
- - Data cleaning and formating.
-All Power Query steps is here.The excel file after preparation process can be downloaded here  [Movies Data Work.xlsx](https://github.com/user-attachments/files/16405611/Movies.Data.Work.xlsx)
+In the initial data preparation phase, I performed the following tasks:
+ - Data Loading and Inspection: Imported the dataset into Power Query and performed an initial inspection to understand its structure and contents.
+ - Handling Errors and Missing Values: Identified and addressed any errors or missing values to ensure data quality.
+ - Data Cleaning and Formatting: Standardized formats, corrected data types, and ensured consistency across the dataset.
+All Power Query steps are documented in the Excel file. The Excel file after the preparation process can be downloaded here: [Movies Data Work.xlsx](https://github.com/user-attachments/files/16405611/Movies.Data.Work.xlsx)
 
 
-### Exploratory Data Analysis
- - Which genres were the most profitable these years?
- - Which actors were the most succesfull ?
+### Exploratory Data Analysis & Results and Findings
 
-### Results and Findings
- - Best profitable movie was: with Budget of.... Box Office Revenue was 102 000 000 USD. The genre of this movie was....
-![Best Profitable Movie](https://github.com/user-attachments/assets/fd37798a-6de0-495e-b543-2393b8223067)
+![Movies Data Dashboard](https://github.com/user-attachments/assets/7ef93be4-8052-4f0d-918a-5d7f04dc223b)
 
 
- - The best actor was...
-![Movies Data Dashboard](https://github.com/user-attachments/assets/b24e4466-139e-4263-87ae-1e5108a5c971)
+  - Which genre generates the highest box office revenue?
+    
+    ![1](https://github.com/user-attachments/assets/784ea593-5093-47a9-81a3-928f6bf0bad1)
+
+  - How has the box office revenue changed throughout the year?
+    
+    ![2](https://github.com/user-attachments/assets/cccf7522-9397-484b-8826-8f59377415a2)
+    
+  - Which movie has the highest ROI (return on investment)?
+    
+    ![3](https://github.com/user-attachments/assets/4f3a0c1f-1444-4cba-82d7-5044ddfc1618)
+
+  - Which movie has the lowest ROI (return on investment)?
+    
+    ![4](https://github.com/user-attachments/assets/b21ba63c-adee-41e9-8dbf-613f27ec1776)
+    
+  - Which movies are in the top 5 by box office revenue?
+    
+    ![5](https://github.com/user-attachments/assets/0c8a220f-a138-40f9-983f-3238f94a1305)
+
+  - What is the budget of the movies in the top 5 by box office revenue?
+    
+    ![6](https://github.com/user-attachments/assets/baafd6b6-5804-4701-99c0-1365e74f5d16)
+
+  - Which movies are in the top 5 by budget?
+    
+    ![7](https://github.com/user-attachments/assets/483b55f5-4726-4a27-9a8c-397388fc2129)
+
+  - Which actors are in the top 5 by box office revenue?
+    
+    ![8](https://github.com/user-attachments/assets/692b990f-e447-48c5-b2b1-3caad6eacbf6)
+
+  - How do different directors influence box office revenues?
+    
+    ![9](https://github.com/user-attachments/assets/caa6e40b-2826-4611-8f81-707d80229f9d)
+    You may notice that movies with big budgets do not always guarantee high revenues.
 
 
+  - How do movie budgets correlate with their box office revenues?
+    
+    ![10](https://github.com/user-attachments/assets/59cbc29b-3a53-4d2c-88b8-a730471c0e3f)
+
+  - #Which directors made the movies with the highest and lowest ROI?
+    
+     1:
+    ![12 2](https://github.com/user-attachments/assets/80634939-63bc-4331-a025-be0b161171e0)
+     2:
+    ![12](https://github.com/user-attachments/assets/82213125-31bd-4a0f-b942-5520cfc96aab)
+
+
+
+  - Is there a correlation between the movie genre and its budget?
+  1:
+    ![13](https://github.com/user-attachments/assets/a2128677-9a3d-46d5-8e6f-ef54063ebfff)
+
+ 2:
+  ![13 2](https://github.com/user-attachments/assets/d585ca45-b97c-4d94-a459-e0ed46103f4e)
+  
+  Visualization by genre and budget can show this relationship. For example, action and adventure films often have larger budgets.
+  
+
+  - What trends can be observed in the popularity of genres throughout the year?
+1: ![14](https://github.com/user-attachments/assets/5576f288-0032-4c16-8cdb-ef5558c46556)
+
+2: ![14 2](https://github.com/user-attachments/assets/30f9acc8-079b-470b-a67f-34c47114ea38)
+
+ 
+It can be seen that some genres are consistently popular, while others have seasonal fluctuations.
+    
 
 ### Challenges in Analysis 
 #### M language
-One of interesting features/challenges I was working with a specific code for Grouping in M language with enabled me to Combine genres together for further analysis.
-I had 2 column for genres, but I needed to combine them and have the same format, for example action/comedy, not comedy/action
+One of the interesting features/challenges I worked on involved a specific code for grouping in M language, which enabled me to combine genres together for further analysis. I had two columns for genres, but I needed to combine them and ensure they had the same format. For example, I wanted the format to always be "Action/Comedy" and not "Comedy/Action".
 
 --- 
 ```
