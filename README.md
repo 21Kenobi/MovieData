@@ -83,7 +83,7 @@ This dashboard is designed for in-depth analysis of movie data. It offers a comp
     
     ![10](https://github.com/user-attachments/assets/59cbc29b-3a53-4d2c-88b8-a730471c0e3f)
 
-  - #Which directors made the movies with the highest and lowest ROI?
+  - Which directors made the movies with the highest and lowest ROI?
     
      1:Low
     ![12 2](https://github.com/user-attachments/assets/80634939-63bc-4331-a025-be0b161171e0)
