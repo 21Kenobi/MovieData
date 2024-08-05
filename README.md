@@ -12,8 +12,7 @@
 This data analysis project aims to provide insights into the performance and trends of movies from 2012 to 2016. By analyzing various aspects of the movie data, the goal is to identify patterns, make data-driven recommendations, and gain a deeper understanding of the industry's dynamics.
 
 ### Data Sources
-The primary dataset used for this analysis is the [Movies Data Homework.xlsx](https://github.com/user-attachments/files/16405599/Movies.Data.Homework.xlsx) , 
-containing detailed information about each movie's performance, actors, directors, and more.
+The primary dataset used for this analysis is the [Movies Data 2012-2016.xlsx](https://github.com/user-attachments/files/16490727/Movies.Data.2012-2016.xlsx)  , containing detailed information about each movie's performance, actors, directors, and more.
 
 Note: If you want to review the steps of the work, you need to use this file as the "Source."
 
@@ -26,7 +25,8 @@ In the initial data preparation phase, I performed the following tasks:
  - Data Loading and Inspection: Imported the dataset into Power Query and performed an initial inspection to understand its structure and contents.
  - Handling Errors and Missing Values: Identified and addressed any errors or missing values to ensure data quality.
  - Data Cleaning and Formatting: Standardized formats, corrected data types, and ensured consistency across the dataset.
-All Power Query steps are documented in the Excel file. The Excel file after the preparation process can be downloaded here: [Movies Data Work.xlsx](https://github.com/user-attachments/files/16405611/Movies.Data.Work.xlsx)
+All Power Query steps are documented in the Excel file. The Excel file after the preparation process can be downloaded here: [Movies Data Work.xlsx](https://github.com/user-attachments/files/16490751/Movies.Data.Work.xlsx) .
+
 
 
 ### Exploratory Data Analysis, Results and Findings
@@ -137,7 +137,8 @@ One of the interesting features/challenges I worked on involved a specific code 
 
 ```
 ### Excel Dashboard
-You can download the Excel dashboard that I created for analyzing movie data from the following link: [Movies Data Dashboard.xlsx](https://github.com/user-attachments/files/16405707/Movies.Data.Dashboard.xlsx). 
+You can download the Excel dashboard that I created for analyzing movie data from the following link: [Movies Data Dashboard.xlsx](https://github.com/user-attachments/files/16490757/Movies.Data.Dashboard.xlsx) .
+
 This dashboard provides a comprehensive view of various metrics, including box office revenue, ROI, and budget information. It features interactive elements like filters for genres and directors, charts displaying trends over time, and tables highlighting the most and least profitable movies, as well as top actors by box office revenue. The dashboard was designed to facilitate easy exploration and analysis of the movie data, making it a valuable tool for gaining insights into the film industry.
 
 
